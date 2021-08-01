@@ -9,6 +9,7 @@ public class AppiumTest {
 	public void AppiumTes1t()
 	{
 		System.out.println("This is appium test");
+		System.out.println("This is git change");
 		
 		
 		
